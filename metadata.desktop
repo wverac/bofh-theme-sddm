@@ -1,0 +1,13 @@
+[SddmGreeterTheme]
+Name=The BOFH SDDM
+Description=BOFH Theme for SDDM
+Author=theovercloud
+License=GPL-3.0-or-later
+Type=sddm-theme
+Version=1.0
+Website=https://github.com/wverac/bofh-theme-sddm
+Screenshot=Preview.png
+MainScript=Main.qml
+ConfigFile=theme.conf
+Theme-Id=bofh-sddm
+
